@@ -136,6 +136,11 @@ favicon:
 # manifest:
 #   url: /manifest.json
 
+# Add custom CSS styles to every page.
+# This will try to compile an SCSS file at /css/global.styl.
+# styles:
+#   - /css/global
+
 # The color scheme that should be used to highlight codeblocks.
 # See source/css/_highlight for a list of all available color schemes.
 # highlight: rainbow
